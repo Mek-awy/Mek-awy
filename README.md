@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Mohamed Mekawy — Product Designer" />
+</p>
 
-<!--
-**Mek-awy/Mek-awy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Product_Designer-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_%2B_Dev_Studio-0B3D3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cairo,_Egypt-5EEAD4?style=for-the-badge&labelColor=5EEAD4&color=5EEAD4" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hey, I'm Mekawy
+
+I design digital products end to end — from the first idea and UX flows, to polished UI in Figma, to shipping it live with my development team.
+I run a small studio that takes products **from Figma to production**: websites, mobile apps, e-commerce stores and brand identities.
+
+> *Jack of all trades, master of none — but oftentimes better than a master of one.*
+
+### ✦ What I do
+
+- 🎨 **Product & UI/UX Design** — web + mobile apps, design systems, prototypes
+- 💻 **Development** — websites, web apps and stores, built and shipped
+- 🧭 **Brand Identity** — logos, brand guides and visual systems
+- 📈 **SEO & Growth** — search visibility, performance and analytics
+
+### 🧰 Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,html,css,ts,react,nextjs,tailwind,git,github,vercel&theme=dark" />
+</p>
+
+### 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mek-awy&bg_color=0d1117&color=5EEAD4&line=0F766E&point=A7F3D0&area=true&area_color=0F766E&hide_border=true&custom_title=Contributions" width="100%" />
+</p>
