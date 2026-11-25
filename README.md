@@ -29,9 +29,3 @@ I run a small studio that takes products **from Figma to production**: websites,
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,html,css,ts,react,nextjs,tailwind,git,github,vercel&theme=dark" />
 </p>
-
-### 📊 GitHub Activity
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mek-awy&bg_color=0d1117&color=5EEAD4&line=0F766E&point=A7F3D0&area=true&area_color=0F766E&hide_border=true&custom_title=Contributions" width="100%" />
-</p>
