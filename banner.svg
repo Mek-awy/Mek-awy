@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B3D3A"/>
+      <stop offset="0.55" stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#A7F3D0" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#A7F3D0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.12"/>
+    </pattern>
+    <style>
+      .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+      .name{font-size:64px;font-weight:700;letter-spacing:-1px}
+      .role{font-size:26px;font-weight:500;fill-opacity:.9}
+      .tag{font-size:18px;font-weight:400;fill-opacity:.75}
+      .k{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:420px;fill:#fff;fill-opacity:.10}
+      .chip{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;font-weight:600;fill:#0B3D3A}
+    </style>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#g)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#dots)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#glow)"/>
+  <text x="1250" y="345" text-anchor="end" class="k">K</text>
+
+  <text x="72" y="130" class="t name">Mohamed Mekawy</text>
+  <text x="74" y="178" class="t role">Product Designer · Design + Dev Studio Founder</text>
+  <text x="74" y="214" class="t tag">Jack of all trades — oftentimes better than a master of one.</text>
+
+  <g transform="translate(74,244)">
+    <rect width="104" height="34" rx="17" fill="#fff" fill-opacity=".92"/>
+    <text x="52" y="22" text-anchor="middle" class="chip">UI / UX</text>
+    <rect x="116" width="160" height="34" rx="17" fill="#fff" fill-opacity=".92"/>
+    <text x="196" y="22" text-anchor="middle" class="chip">Product Design</text>
+    <rect x="288" width="150" height="34" rx="17" fill="#fff" fill-opacity=".92"/>
+    <text x="363" y="22" text-anchor="middle" class="chip">Development</text>
+    <rect x="450" width="90" height="34" rx="17" fill="#fff" fill-opacity=".92"/>
+    <text x="495" y="22" text-anchor="middle" class="chip">SEO</text>
+  </g>
+</svg>
